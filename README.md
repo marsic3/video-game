@@ -1,6 +1,6 @@
 # video-games
 
-> My first-class Nuxt.js project
+> Vue JS + NUXT JS application
 
 ## Build Setup
 
